@@ -91,9 +91,9 @@ The application window (1000×650) will open centered on screen.
 
 | Learners | Email |
 |---|---|
-| L001 – Aarav Patel | aarav@email.com |
-| L002 – Diya Nair | diya@email.com |
-| L003 – Rohan Gupta | rohan@email.com |
+| L001 – Aarav Patel | a@gmail.com |
+| L002 – Diya Nair | d@email.com |
+| L003 – Rohan Gupta | r@email.com |
 
 Two enrollments are pre-created: Aarav → Java Programming, Diya → Data Structures.
 
